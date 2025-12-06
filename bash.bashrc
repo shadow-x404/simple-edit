@@ -1,7 +1,7 @@
 clear
 echo
 echo "
-   < ━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━ >  " |lolcat
+   < ━━━━━━━━━ [★] TERMUX [★] ━━━━━━━━━━━━ >  " |lolcat
 echo
     echo "  We Are AnonyMouse" |lolcat
 
@@ -11,7 +11,7 @@ figlet    '    THBD' |lolcat
 echo "
              We Do Not HaCk to impress
                         We HaCk To Express
-   < ━━━━━━━━━━━ [★]™ZX ARMY BD [★] ━━━━━━━━━━━━ > " |lolcat
+   < ━━━━━━ [★]BACKBENCHER HACKING TEAM [★] ━━━━━━━ > " |lolcat
 
 
 python /data/data/com.termux/files/usr/etc/wlc.py
